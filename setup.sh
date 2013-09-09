@@ -2,9 +2,6 @@
 # Simple setup.sh for configuring Ubuntu 12.04 LTS EC2
 # for headless setup.
 
-# Install Github
-sudo apt-get install -y git-core
-
 # Install heroku 
 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
 
